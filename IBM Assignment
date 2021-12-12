@@ -1,0 +1,6 @@
+git init
+git add README.md  
+git add IBM Assignment.ipynb
+git commit -m "IBM Assignment" 
+git remote add origin https://github.com/adar/IBM Assignment.git 
+git push -u origin master https://hub.mybinder.turing.ac.uk/user/ipython-ipython-in-depth-cuzkkk6w/doc/tree/IBM%20Assignment.ipynb
